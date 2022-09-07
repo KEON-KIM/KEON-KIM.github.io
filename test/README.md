@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# MY MENU
+# MY MENU TEST
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
